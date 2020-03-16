@@ -13,8 +13,10 @@ With that, I got the file DeclarationList.xsd and with this file, I generate a c
 After that, I change the original DeclarationList.xsd because in the 3rd problem I could see that the elements <Reference> are optatives, and elements like <Declaration>, <SiteID>, <DeclarationHeader> so I changed the minOccurs values depending on if it's required.
 
 With this xsd, I validate the structure in both problems, and if it is correct I deserialize using XmlSerializer and the generated class DeclarationList.cs
+
 2)
 Added Unit test using NUnit
+
 3)
 Added Integration test using XUnit
 
