@@ -1,0 +1,17 @@
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\nunit.engine.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\nunit.engine.api.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.deps.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.runtimeconfig.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.runtimeconfig.dev.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.csprojAssemblyReference.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.AssemblyInfo.cs
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.csproj.CopyComplete
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Parser.Test\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.Test.pdb

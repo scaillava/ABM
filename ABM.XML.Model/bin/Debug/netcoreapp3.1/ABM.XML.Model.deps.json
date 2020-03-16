@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ABM.XML.Model/1.0.0": {
+        "runtime": {
+          "ABM.XML.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABM.XML.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

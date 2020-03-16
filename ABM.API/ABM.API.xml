@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ABM.API</name>
+    </assembly>
+    <members>
+        <member name="T:ABM.API.Infrastructure.Swagger.LowercaseDocumentFilter">
+            <summary>
+            A Swagger document filter, which transforms all paths to lower case.
+            </summary>
+        </member>
+    </members>
+</doc>

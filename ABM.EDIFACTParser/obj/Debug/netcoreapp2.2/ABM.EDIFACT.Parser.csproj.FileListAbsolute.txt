@@ -1,0 +1,7 @@
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.deps.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\bin\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.AssemblyInfo.cs
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACTParser\obj\Debug\netcoreapp2.2\ABM.EDIFACT.Parser.pdb

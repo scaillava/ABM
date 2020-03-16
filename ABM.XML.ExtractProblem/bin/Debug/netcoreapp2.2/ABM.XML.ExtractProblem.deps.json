@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ABM.XML.ExtractProblem/1.0.0": {
+        "dependencies": {
+          "ABM.XML.Model": "1.0.0"
+        },
+        "runtime": {
+          "ABM.XML.ExtractProblem.dll": {}
+        }
+      },
+      "ABM.XML.Model/1.0.0": {
+        "runtime": {
+          "ABM.XML.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABM.XML.ExtractProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ABM.XML.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

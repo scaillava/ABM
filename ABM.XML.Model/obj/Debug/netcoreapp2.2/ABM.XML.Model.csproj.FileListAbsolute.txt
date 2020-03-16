@@ -1,0 +1,8 @@
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\bin\Debug\netcoreapp2.2\Schemes\DeclarationList.xsd
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\bin\Debug\netcoreapp2.2\ABM.XML.Model.deps.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\bin\Debug\netcoreapp2.2\ABM.XML.Model.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\bin\Debug\netcoreapp2.2\ABM.XML.Model.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\obj\Debug\netcoreapp2.2\ABM.XML.Model.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\obj\Debug\netcoreapp2.2\ABM.XML.Model.AssemblyInfo.cs
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\obj\Debug\netcoreapp2.2\ABM.XML.Model.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.Model\obj\Debug\netcoreapp2.2\ABM.XML.Model.pdb

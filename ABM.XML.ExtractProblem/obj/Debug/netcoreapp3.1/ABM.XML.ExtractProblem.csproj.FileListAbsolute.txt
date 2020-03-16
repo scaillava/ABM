@@ -1,0 +1,10 @@
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\bin\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.exe
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\bin\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.deps.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\bin\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.runtimeconfig.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\bin\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.runtimeconfig.dev.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\bin\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\bin\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\obj\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\obj\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.AssemblyInfo.cs
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\obj\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.XML.ExtractProblem\obj\Debug\netcoreapp3.1\ABM.XML.ExtractProblem.pdb

@@ -1,0 +1,16 @@
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.exe
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\obj\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.csprojAssemblyReference.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\obj\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.AssemblyInfoInputs.cache
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\obj\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.AssemblyInfo.cs
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Parser.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.deps.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.runtimeconfig.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.runtimeconfig.dev.json
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\bin\Debug\netcoreapp3.1\ABM.EDIFACT.Parser.pdb
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\obj\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.csproj.CopyComplete
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\obj\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.dll
+C:\Users\san\Desktop\ABM Challenge\ABM.Challenge\ABM.EDIFACT.Problem\obj\Debug\netcoreapp3.1\ABM.EDIFACT.Problem.pdb
